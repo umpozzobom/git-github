@@ -4,6 +4,10 @@ Criando uma branch npelo terminal
 
 ## git checkout -b [nome do arquivo]
 
+##### Para voltar par a brach anterior:
 
+comando git branch verifica a quantidade de branch e onde está
+
+Para voltar eu uso o comando git checkout [nome da branch que quero voltar]
 
 
