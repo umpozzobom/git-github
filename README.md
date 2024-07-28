@@ -1,3 +1,3 @@
 Repositório do curso WomaMarkes - data Analytis
 
-Aulas avulsas 
+fiz alterações de pastas para ficar organizado
